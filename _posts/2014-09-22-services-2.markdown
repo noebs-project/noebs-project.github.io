@@ -1,0 +1,9 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: This project philosophy
+description: |
+---
+  
+noebs is not meant to be a full e-payment framework (e.g., unlike Morsal). It is meant as a generic e-payment gateway system. Currently, it implements EBS services, but we might add new gateway. Being such, adapts to Unix philosophy; doing one thing and do it good. A mobile payment provider can use our payment service inside their application whenever their users are requesting any transactions. It is not our responsibility to authenticate your users. This way, we can use this application in virtually any place. Our client consumers are held responsible for providing any kind of authentication for their requests.

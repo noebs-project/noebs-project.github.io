@@ -1,0 +1,12 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Why this project
+description: |
+---
+There are many reasons why I started this project. On one hand people can happily rely on EBS MCS webservices to run e.g., a POS. But this is not the goal of this project. I have a vision for the e-payment ecosystem in Sudan, way more beyond the 1SDG purchase fees.
+
+• a middleware for a many is major entry burden. Well, you have a free one now.
+
+• having a strong e-payment ecosystem will benefit all of us.

@@ -1,0 +1,20 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Services we offer
+description: |
+---
+• a mobile application app (with its backend system, obviously). This app will encapsulates the business logic and authenticate the incoming requests.
+
+• a chatting service. Like WeChat, where people can send their money to their friends and families, in a very friendly way.
+
+• ecommerce platform. The idea is not just to offer an epayment gateway, well, EBS offers that through their MCS web services.
+
+• and finally the payment gateway layer which handles the payment part.
+
+• there could be other services e.g., push notifications, SMS, 2FA and plenty of others.
+
+• logging and the reporting system.
+
+• rate limiting, geographical blocking and other API gateway protections.
