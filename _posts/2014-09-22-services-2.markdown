@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: philosophy.png
 category: Services
 title: This project philosophy
 description: |
